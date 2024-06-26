@@ -1,0 +1,27 @@
+[
+  {
+    "Id": "8f72b491-9da2-48e3-b99d-f6b0c9b84444",
+    "Name": "IA",
+    "Description": "Tegnologia de moda en el 2024"
+  },
+  {
+    "Id": "a22d48ff-a8a2-4b98-a188-d5ef3c970f63",
+    "Name": "NodeJs",
+    "Description": "Entorno de ejecucion de JavaScript"
+  },
+  {
+    "Id": "df1da25f-0d61-46da-998c-8d781e3c7938",
+    "Name": "Java",
+    "Description": "Lenguaje de programacion empresarial"
+  },
+  {
+    "Id": "d9dd6869-d1b8-470a-8045-fe8b3fea3929",
+    "Name": "UNAH",
+    "Description": "Universidad"
+  },
+  {
+    "Id": "b1983f1a-1a61-4677-b136-0298588984da",
+    "Name": "UNAH",
+    "Description": ""
+  }
+]

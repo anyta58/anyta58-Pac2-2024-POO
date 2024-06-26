@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\migrations\\blogunahcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\migrations\\blogunahcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\migrations\\20240626002110_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\migrations\\20240626002110_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\database\\blogunahcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\database\\blogunahcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\apirest\\blogunah.api\\blogunah.api\\database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5370EC19-26AD-4D2D-AE15-F00F039070DD}|BlogUNAH.API\\BlogUNAH.API.csproj|solutionrelative:blogunah.api\\database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogUNAHContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Migrations\\BlogUNAHContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\Migrations\\BlogUNAHContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Migrations\\BlogUNAHContextModelSnapshot.cs",
+              "RelativeToolTip": "BlogUNAH.API\\Migrations\\BlogUNAHContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:08:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\appsettings.json",
+              "RelativeToolTip": "BlogUNAH.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T00:56:27.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\appsettings.Development.json",
+              "RelativeToolTip": "BlogUNAH.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T00:37:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Startup.cs",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Startup.cs",
+              "RelativeToolTip": "BlogUNAH.API\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:07:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogUNAHContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Database\\BlogUNAHContext.cs",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\Database\\BlogUNAHContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Database\\BlogUNAHContext.cs",
+              "RelativeToolTip": "BlogUNAH.API\\Database\\BlogUNAHContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:20:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240626002110_init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Migrations\\20240626002110_init.cs",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\Migrations\\20240626002110_init.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Migrations\\20240626002110_init.cs",
+              "RelativeToolTip": "BlogUNAH.API\\Migrations\\20240626002110_init.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:35:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Database\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlogUNAH.API\\Database\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\ApiRest\\BlogUNAH.API\\BlogUNAH.API\\Database\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BlogUNAH.API\\Database\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:28:58.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
